@@ -1,0 +1,89 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Where the Crawdads Sing",
+      "authorId": 1,
+      "size": 384,
+      "publishedYear": 2018,
+      "language": "English"
+    },
+    {
+      "id": 2,
+      "title": "Where the Crawdads Sing copy 2",
+      "authorId": 1,
+      "size": 384,
+      "publishedYear": 2018,
+      "language": "English"
+    },
+    {
+      "id": 3,
+      "title": "Where the Crawdads Sing copy 3",
+      "authorId": 1,
+      "size": 384,
+      "publishedYear": 2018,
+      "language": "English"
+    },
+    {
+      "id": 4,
+      "title": "Becoming",
+      "authorId": 2,
+      "size": 448,
+      "publishedYear": 2018,
+      "language": "English"
+    },
+    {
+      "id": 5,
+      "title": "Educated: A Memoir",
+      "authorId": 3,
+      "size": 352,
+      "publishedYear": 2013,
+      "language": "English"
+    },
+    {
+      "id": 6,
+      "title": "Educated: A Memoir copy 2",
+      "authorId": 3,
+      "size": 352,
+      "publishedYear": 2013,
+      "language": "English"
+    },
+    {
+      "id": 7,
+      "title": "Educated: A Memoir copy 3",
+      "authorId": 3,
+      "size": 352,
+      "publishedYear": 2019,
+      "language": "English"
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "name": "Delia Owens",
+      "bornYear": 1949
+    },
+    {
+      "id": 2,
+      "name": "Michelle Obama",
+      "bornYear": 1964
+    },
+    {
+      "id": 3,
+      "name": "Tara Westover",
+      "bornYear": 1986
+    },
+    {
+      "name": "Nebras",
+      "id": 4
+    },
+    {
+      "name": "Diconium",
+      "id": 5
+    },
+    {
+      "name": "Hweoow",
+      "id": 6
+    }
+  ]
+}
